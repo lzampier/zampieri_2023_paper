@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414652.svg)](https://doi.org/10.5281/zenodo.8414652)
-
 # zampieri_2023_paper
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414652.svg)](https://doi.org/10.5281/zenodo.8414652)
 
 ## Modelling the winter heat conduction through the sea ice system during MOSAiC
 
